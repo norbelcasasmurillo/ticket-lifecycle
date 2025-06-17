@@ -215,33 +215,46 @@ Resolve ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/624fcf9d-681d-4384-81f4-315da65d7f9c)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an end-user, create the following ticket. Issue Summary: CFO’s laptop will no longer turn on. Issue Description: Laptop won’t power on, despite pressing the power button.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/f1f4849c-eb8e-4806-b5ac-9950c6b3cf39)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As a Help Desk Agent (john), observe the ticket’s properties. Priority -> emergency ; Department = Support ; SLA -> Sev-B ; Comment: May reclassify after getting more info. ; Assigned To -> To self (John) ; Note ; In real life, call the CFO, see in person, or contact karen. 
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/005df50f-532d-40ca-bc81-c4f83bd1d8c5)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set Properties to the ticket to Sev-B (4 hours, 24/7) and Support. Work the ticket to completion as john. Post Reply: CFO’s laptop was not charging due to broken charger, brought new charger, now successfully charging. 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/fdface83-162d-44cf-aaef-00d9fa25a67c)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Close Ticket since it was solved. Comment: Charger was broken, because of this, the battery was dead and unable to turn on. ; Make sure, that all closed tickets are assigned to the right department, example like business critical outage should belong to sysadmins, meaning then john can’t see it. You could also give John limited access to.
+
 </p>
 <br />
