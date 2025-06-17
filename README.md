@@ -169,34 +169,48 @@ As a Help Desk Agent (john), observe the ticket’s properties. (Priority, Depar
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/2c2dc9ed-86f7-4f4b-a717-c41efcef5ebb)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since the ticket department is support, work the ticket to completion as john. Assign to self as John. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/4af13c3c-c525-4334-8fc8-1b3e129ea5b8)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Post Reply: (Cx means Customer) Cx states only 2 people in the accounting department are unable to open and use adobe reader. Cx testing restart, will call back after lunch.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/5ddaaa2b-94ce-426c-8c05-b89bfcc66821)
+
+![image](https://github.com/user-attachments/assets/7e2cb5b7-6fea-4d84-8570-079233bd60fa)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next Post Reply (Imagine a few hours passed and you were notified the following): Cx states that restart fixed issue, closing out ticket. Caution: If your company has internal notes, similar to osTicket, then avoid saying anything you don’t want the customer to see. Since you never know if they might see it. Make them as nice as possible. 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/4224cb3d-1e96-4475-89e4-db34dba73aab)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resolve ticket.
+
 </p>
 <br />
 
