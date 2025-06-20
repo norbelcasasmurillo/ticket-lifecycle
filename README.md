@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/9f2e275f-f185-4874-83b7-9c8fdc5202fe)
 
@@ -40,7 +40,7 @@ Before we create tickets as end users and observing all the ticket properties an
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/2bb9f877-ffe2-47f6-9cd6-f0be5c64be5d)
 
@@ -51,7 +51,7 @@ http://localhost/osTicket ) Issue Summary:  entire mobile/online banking system 
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/9f860c12-5767-4ee3-b3c4-8696f193f4cd)
 
@@ -62,7 +62,7 @@ As a Help Desk Agent (john), observe the ticket’s properties (in theory you wo
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/277e6a51-4ec3-448a-b25d-dda2ce482095)
 
@@ -73,7 +73,7 @@ Set Properties to the ticket to Sev-A (1 hour, 24/7) and Comment: Wide Impact, c
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/d6cc591a-3dbb-4dfc-a969-f7ef41b46795)
 
@@ -84,7 +84,7 @@ In that same ticket update this property for Help Topic to Online Banking Depart
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/490f5d11-cbdb-4096-8a6a-9241aa5600e3)
 
@@ -95,7 +95,7 @@ Attempt to observe the ticket again as “john”. Can you view or change? Ideal
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/f6e0b93f-757b-4cb7-b428-cb810f7f2028)
 
@@ -105,7 +105,7 @@ Assign to Jane Doe as John (Jane and the Admin (Not John) should be part of the 
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/db809b56-97b9-44d2-a113-2eeb89fe1a4e)
 
@@ -116,7 +116,7 @@ Work the ticket to completion as jane. (She assigns the ticket to herself. Comme
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/3c99c4b7-43f7-4b0f-a8d8-0921fb3de840)
 
@@ -126,7 +126,7 @@ In Post Reply put this as Jane: I suspect the problem might be related to the re
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/0179c9f2-867d-49af-9696-2e5dcbff4991)
 
@@ -136,7 +136,7 @@ Next Post Reply from Jane: It was determined the root cause was the recent updat
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/e0131ad2-72b2-44c5-88f8-510124768e57)
 
@@ -146,7 +146,7 @@ Since the ticket is resolved, change the status of the ticket from Open to Resol
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/a363e1ca-694c-4f25-9aa4-bb67a8afba4a)
 
@@ -156,7 +156,7 @@ As an end-user, create the following ticket. Issue Summary: accounting departmen
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/56ad425c-3a41-46f3-bfc6-e7e0dd3f2f43)
 
@@ -168,7 +168,7 @@ As a Help Desk Agent (john), observe the ticket’s properties. (Priority, Depar
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/2c2dc9ed-86f7-4f4b-a717-c41efcef5ebb)
 
@@ -178,7 +178,7 @@ Since the ticket department is support, work the ticket to completion as john. A
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/4af13c3c-c525-4334-8fc8-1b3e129ea5b8)
 
@@ -189,7 +189,7 @@ Post Reply: (Cx means Customer) Cx states only 2 people in the accounting depart
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/5ddaaa2b-94ce-426c-8c05-b89bfcc66821)
 
@@ -203,7 +203,7 @@ Next Post Reply (Imagine a few hours passed and you were notified the following)
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/4224cb3d-1e96-4475-89e4-db34dba73aab)
 
@@ -214,7 +214,7 @@ Resolve ticket.
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/624fcf9d-681d-4384-81f4-315da65d7f9c)
 
@@ -225,7 +225,7 @@ As an end-user, create the following ticket. Issue Summary: CFO’s laptop will 
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/f1f4849c-eb8e-4806-b5ac-9950c6b3cf39)
 
@@ -237,7 +237,7 @@ As a Help Desk Agent (john), observe the ticket’s properties. Priority -> emer
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/005df50f-532d-40ca-bc81-c4f83bd1d8c5)
 
@@ -248,7 +248,7 @@ Set Properties to the ticket to Sev-B (4 hours, 24/7) and Support. Work the tick
 </p>
 <br />
 
-<p>
+<p align="center">
 
 ![image](https://github.com/user-attachments/assets/fdface83-162d-44cf-aaef-00d9fa25a67c)
 
