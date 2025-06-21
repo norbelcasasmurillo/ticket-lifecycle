@@ -30,56 +30,58 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p align="center">
+Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals, first we will DELETE the Maintenance Department (not archive) (login as User: adminuser ; Password: Password1 ; Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php 
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/9f2e275f-f185-4874-83b7-9c8fdc5202fe)
 
 </p>
-<p>
-Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals, first we will DELETE the Maintenance Department (not archive) (login as User: adminuser ; Password: Password1 ; Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php 
-
-</p>
 <br />
 
 <p align="center">
+As an end-user, create the following ticket. (End Users osTicket URL:
+http://localhost/osTicket ) Issue Summary:  entire mobile/online banking system is down. ; Issue Description: My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/2bb9f877-ffe2-47f6-9cd6-f0be5c64be5d)
 
 </p>
-<p>
-As an end-user, create the following ticket. (End Users osTicket URL:
-http://localhost/osTicket ) Issue Summary:  entire mobile/online banking system is down. ; Issue Description: My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
-</p>
 <br />
 
 <p align="center">
+As a Help Desk Agent (john), observe the ticket’s properties (in theory you would contact karen to get more information. Is it still down? etc.) (Priority, Department, SLA, Assigned To)
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/9f860c12-5767-4ee3-b3c4-8696f193f4cd)
 
 </p>
-<p>
-As a Help Desk Agent (john), observe the ticket’s properties (in theory you would contact karen to get more information. Is it still down? etc.) (Priority, Department, SLA, Assigned To)
-
-</p>
 <br />
 
 <p align="center">
+Set Properties to the ticket to Sev-A (1 hour, 24/7) and Comment: Wide Impact, customers unable to do online banking.
+ (But before that First, set John to have all-access first in adminuser account in Agents, then login back as John)
+
+</p>
+<p>
 
 ![image](https://github.com/user-attachments/assets/277e6a51-4ec3-448a-b25d-dda2ce482095)
 
 </p>
-<p>
-Set Properties to the ticket to Sev-A (1 hour, 24/7) and Comment: Wide Impact, customers unable to do online banking.
- (But before that First, set John to have all-access first in adminuser account in Agents, then login back as John)
-</p>
 <br />
 
 <p align="center">
-
-![image](https://github.com/user-attachments/assets/d6cc591a-3dbb-4dfc-a969-f7ef41b46795)
+In that same ticket update this property for Help Topic to Online Banking Department. And put this comment: No customers able to access online banking.
 
 </p>
 <p>
-In that same ticket update this property for Help Topic to Online Banking Department. And put this comment: No customers able to access online banking.
+
+![image](https://github.com/user-attachments/assets/d6cc591a-3dbb-4dfc-a969-f7ef41b46795)
 
 </p>
 <br />
