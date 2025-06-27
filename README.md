@@ -95,6 +95,7 @@ A prestep before this step, set John to have all-access first in adminuser accou
 - Then on adminuser account. Set these new properties setting for Karen's open ticket:
 - **SLA Plan:** Sev-A (1 hour, 24/7)
 - **Comment:** Wide Impact, customers unable to do online banking.
+- Then click update.
 
 </p>
 <p>
@@ -107,8 +108,11 @@ A prestep before this step, set John to have all-access first in adminuser accou
 <br />
 
 <p align="center">
-In that same ticket update this property for Help Topic to Online Banking Department. And put this comment: No customers able to access online banking.
-
+  
+In that same ticket update this property: 
+- **Help Topic:** Report a Probelm / Business Critical Outage
+- **Comment:** No customers able to access online banking.
+- Then click update
 </p>
 <p>
 
