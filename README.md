@@ -30,24 +30,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p align="center">
-Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals, first we will DELETE the Maintenance Department (not archive). 
+Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals. 
 Login as:
   
 - **User:** adminuser
 - **Password:** Password1  
-- **Admin/Analyst Login Page:**  http://localhost/osTicket/scp/login.php 
+- **Admin/Analyst Login Page:**  http://localhost/osTicket/scp/login.php
+- Go to Admin Panel -> Agents -> Departments
+- Then select "Maintenance Department", then click "More", then click "Delete".
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/9f2e275f-f185-4874-83b7-9c8fdc5202fe)
+![image](https://github.com/user-attachments/assets/88a7ea45-07ed-4fa4-8399-9c96930e3f21)
 
 </p>
 <br />
 
 <p align="center">
-As an end-user, create the following ticket. (End Users osTicket URL:
-http://localhost/osTicket ) Issue Summary:  entire mobile/online banking system is down. ; Issue Description: My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
+Open this link:
+
+- **End Users osTicket URL:** http://localhost/osTicket
+As an end-user, create the following ticket.
+- **Issue Summary:**  entire mobile/online banking system is down.
+- **Issue Description:** My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
 
 </p>
 <p>
