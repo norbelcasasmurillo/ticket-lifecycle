@@ -92,7 +92,7 @@ A prestep before this step, set John to have all-access first in adminuser accou
 - **Password:** Password1
 - **Username:** john
 - **Password:** Password1
-- Then on adminuser account. Set these new properties setting for Karen's open ticket:
+- Then on john's account. Set these new properties setting for Karen's open ticket:
 - **SLA Plan:** Sev-A (1 hour, 24/7)
 - **Comment:** Wide Impact, customers unable to do online banking.
 - Then click update.
