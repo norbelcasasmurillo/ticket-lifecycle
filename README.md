@@ -51,7 +51,7 @@ Login as:
 Open this link:
 
 - **End Users osTicket URL:** http://localhost/osTicket
-As an end-user, create the following ticket.
+- As an end-user, create the following ticket.
 - **Issue Summary:**  entire mobile/online banking system is down.
 - **Issue Description:** My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
 
