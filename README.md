@@ -54,14 +54,14 @@ Open this link, then click on "Open a New Ticket":
 - As an end-user, create the following ticket:
 - **E-mail Address:** karen@lognpacific.com
 - **Full Name:** Karen
-- **Help Desk:**
+- **Help Topic:** Report a Problem 
 - **Issue Summary:**  Entire mobile/online banking system is down
 - **Issue Description:** My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
 - Click **Create Ticket**
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/27f9f475-55b7-4fae-8194-79b5e9b1e0c8)
+![image](https://github.com/user-attachments/assets/c1f90ab5-c682-4d7b-9780-5c291ab80b31)
 
 
 </p>
