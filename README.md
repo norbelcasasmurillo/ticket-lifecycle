@@ -48,17 +48,21 @@ Login as:
 <br />
 
 <p align="center">
-Open this link:
+Open this link, then click on "Open a New Ticket":
 
 - **End Users osTicket URL:** http://localhost/osTicket
-- As an end-user, create the following ticket.
-- **Issue Summary:**  entire mobile/online banking system is down.
+- As an end-user, create the following ticket:
+- **E-mail Address:** karen@lognpacific.com
+- **Full Name:** Karen
+- **Help Desk:**
+- **Issue Summary:**  Entire mobile/online banking system is down
 - **Issue Description:** My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it, cannot log it. 
-
+- Click **Create Ticket**
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/2bb9f877-ffe2-47f6-9cd6-f0be5c64be5d)
+![image](https://github.com/user-attachments/assets/27f9f475-55b7-4fae-8194-79b5e9b1e0c8)
+
 
 </p>
 <br />
