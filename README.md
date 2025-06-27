@@ -62,18 +62,24 @@ Open this link, then click on "Open a New Ticket":
 <p>
 
 ![image](https://github.com/user-attachments/assets/c1f90ab5-c682-4d7b-9780-5c291ab80b31)
+![image](https://github.com/user-attachments/assets/a7a6453b-f717-44d3-b882-783aac1ada9f)
 
 
 </p>
 <br />
 
 <p align="center">
-As a Help Desk Agent (john), observe the ticket’s properties (in theory you would contact karen to get more information. Is it still down? etc.) (Priority, Department, SLA, Assigned To)
+As a Help Desk Agent John:
+
+- **Link:** http://localhost/osTicket/scp/login.php
+- **Username:** john
+- **Password:** Password1
+- Observe the ticket’s properties such as "Priority", "Department", "SLA", "Assigned To", etc. (In theory you would contact karen to get more information. Is it still down? etc.) 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/9f860c12-5767-4ee3-b3c4-8696f193f4cd)
+![image](https://github.com/user-attachments/assets/59848694-87c0-4947-ab69-a70720a7aa52)
 
 </p>
 <br />
