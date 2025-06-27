@@ -30,7 +30,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p align="center">
-Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals, first we will DELETE the Maintenance Department (not archive) (login as User: adminuser ; Password: Password1 ; Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php 
+Before we create tickets as end users and observing all the ticket properties and responding to them as help desk professionals, first we will DELETE the Maintenance Department (not archive). 
+Login as:
+  
+- **User:** adminuser
+- **Password:** Password1  
+- **Admin/Analyst Login Page:**  http://localhost/osTicket/scp/login.php 
 
 </p>
 <p>
