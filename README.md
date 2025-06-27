@@ -80,18 +80,28 @@ As a Help Desk Agent John:
 <p>
 
 ![image](https://github.com/user-attachments/assets/59848694-87c0-4947-ab69-a70720a7aa52)
+![image](https://github.com/user-attachments/assets/9ef4cd10-a58b-460e-b7e2-4a7bb5657234)
 
 </p>
 <br />
 
 <p align="center">
-Set Properties to the ticket to Sev-A (1 hour, 24/7) and Comment: Wide Impact, customers unable to do online banking.
-(But before that First, set John to have all-access first in adminuser account in Agents, then login back as John)
+A prestep before this step, set John to have all-access first in adminuser account in Agents. Go to Admin Panel -> Agents -> John Doe -> Access -> Change "View-Only" to "All Access" -> Click Save Changes. Then login back as John.
+
+- **Username:** adminuser
+- **Password:** Password1
+- **Username:** john
+- **Password:** Password1
+- Then on adminuser account. Set these new properties setting for Karen's open ticket:
+- **SLA Plan:** Sev-A (1 hour, 24/7)
+- **Comment:** Wide Impact, customers unable to do online banking.
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/277e6a51-4ec3-448a-b25d-dda2ce482095)
+![image](https://github.com/user-attachments/assets/c02e185b-6d01-4552-ab11-c674114fed3e)
+
+![image](https://github.com/user-attachments/assets/d273fb0c-63a1-4c6e-9062-7a2d26788582)
 
 </p>
 <br />
