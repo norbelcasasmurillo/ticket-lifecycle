@@ -109,39 +109,22 @@ A prestep before this step, set John to have all-access first in adminuser accou
 
 <p align="center">
   
-In that same ticket update this property: 
-- **Help Topic:** Report a Probelm / Business Critical Outage
-- **Comment:** No customers able to access online banking.
-- Then click update
+In that same ticket update these property: 
+
+- **Assigned to:** Jane / Online Banking (Then click "Assign")
+- **Comment (for Assigned to):** Customers not able to access online banking portal, assigning to online banking team.
+- And 
+- **Help Topic:** Report a Problem / Business Critical Outage
+- **Comment (for Help Topic):** No customers able to access online banking.
+  
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/d58bcf3b-ad31-475f-958d-7658e656aaec)
+![image](https://github.com/user-attachments/assets/a2d153d7-47d2-4f4b-9ed0-1b690ce77817)
 
 </p>
 <br />
 
-<p align="center">
-Attempt to observe the ticket again as “john”. Can you view or change? Ideal John shouldn’t be able to. (If John is able to see, then go to the adminuser account, and change John access to view-only) 
-
-</p>
-<p>
-
-![image](https://github.com/user-attachments/assets/490f5d11-cbdb-4096-8a6a-9241aa5600e3)
-
-</p>
-<br />
-
-<p align="center">
-Assign to Jane Doe as John (Jane and the Admin (Not John) should be part of the Team for Online Banking, which the adminuser should do), and put this comment: “Customers not able to access online banking portal, assigning to online banking team.”
-
-</p>
-<p>
-
-![image](https://github.com/user-attachments/assets/f6e0b93f-757b-4cb7-b428-cb810f7f2028)
-
-</p>
-<br />
 
 <p align="center">
 Work the ticket to completion as jane. (She assigns the ticket to herself. Comment: “I’ll be taking this ticket.”
