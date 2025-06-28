@@ -127,64 +127,88 @@ In that same ticket update these property:
 
 
 <p align="center">
-Work the ticket to completion as jane. (She assigns the ticket to herself. Comment: “I’ll be taking this ticket.”
-
+Work the ticket to completion as jane. 
+  
+- **Username:** jane
+- **Password:** Password1
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/db809b56-97b9-44d2-a113-2eeb89fe1a4e)
+![image](https://github.com/user-attachments/assets/cbcbf60e-bc2b-445e-b31d-1e1b955774b2)
 
 </p>
 <br />
 
 <p align="center">
-In Post Reply put this as Jane: I suspect the problem might be related to the recent updates. We tested them sufficiently, but 	I’m going to look into it further and roll the back if I determine that was the cause. 
-
+Within the ticket, at the bottom of the page where it says "Post Reply" put this as Jane:
+  
+- **Post-Reply:** I suspect the problem might be related to the recent updates. We tested them sufficiently, but 	I’m going to look into it further and roll the back if I determine that was the cause. 
+- Then click Post Reply.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/3c99c4b7-43f7-4b0f-a8d8-0921fb3de840)
+![image](https://github.com/user-attachments/assets/fe4390c5-cf1e-4ea1-9478-7a52d795cfd7)
 
 </p>
 <br />
 
 <p align="center">
-Next Post Reply from Jane: It was determined the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running. 
+Put this Next Post Reply from Jane: 
 
+- **Post Reply:** It was determined the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running. 
+- Then click Post Reply
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/0179c9f2-867d-49af-9696-2e5dcbff4991)
+![image](https://github.com/user-attachments/assets/185c9f35-f694-4336-b648-77168f2cb706)
 </p>
 <br />
 
 <p align="center">
-Since the ticket is resolved, change the status of the ticket from Open to Resolved, then click closed. 
+Since the ticket is resolved, change the status of the ticket:
+
+- **Status:** Resolved
+- Then click "Close". 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/e0131ad2-72b2-44c5-88f8-510124768e57)
+![image](https://github.com/user-attachments/assets/328100a8-2805-440a-b4c9-9cae4696dd6b)
 </p>
 <br />
 
 <p align="center">
-As an end-user, create the following ticket. Issue Summary: accounting department needs adobe upgrade, broken. Description: It looks like many people in the account department can’t use their adobe software.
+As an end-user, create the following ticket. 
 
+- **Link:** http://localhost/osTicket/open.php (Then click on "Open a New Ticket")
+- **E-mail Address:** ken@lognpacific.com
+- **Full Name:** Ken
+- **Help Topic:** General Inquiry / Other
+- **Issue Summary:** accounting department needs adobe upgrade, broken.
+- **Issue Description:** It looks like many people in the account department can’t use their adobe software.
+- Then click "Create Ticket". 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/a363e1ca-694c-4f25-9aa4-bb67a8afba4a)
+![image](https://github.com/user-attachments/assets/d367cf1b-68c7-4e77-acae-662db5d9e7da)
+![image](https://github.com/user-attachments/assets/c60597a4-0aac-4809-8281-8c7aab928884)
+
 </p>
 <br />
 
 <p align="center">
-As a Help Desk Agent (john), observe the ticket’s properties. (Priority, Department, SLA, Assigned To). Set SLA Properties to the ticket Sev-C (Business Hours, 24/5). Comment: Only 2 people unable to open adobe reader, classifying as Sev-C.
+As a Help Desk Agent (john), observe the ticket’s properties such as "Priority", "Department", "SLA", "Assigned To", etc. Then, change SLA Properties.
+
+- **Username:** john
+- **Password:** Password1
+- **SLA Plan:** Sev-C
+- **Comment (from SLA Plan)**: Only 2 people unable to open adobe reader, classifying as Sev-C.
+ 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/56ad425c-3a41-46f3-bfc6-e7e0dd3f2f43)
+![image](https://github.com/user-attachments/assets/d8d9bb87-5159-4914-8f32-b6632ecf02c9)
 
 </p>
 <br />
@@ -192,32 +216,40 @@ As a Help Desk Agent (john), observe the ticket’s properties. (Priority, Depar
 <p align="center">
 Since the ticket department is support, work the ticket to completion as john. Assign to self as John. 
 
+- **Assigned to:** John
+- Then click "Assign".
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/2c2dc9ed-86f7-4f4b-a717-c41efcef5ebb)
+![image](https://github.com/user-attachments/assets/0521fee5-b7ee-48c2-ade1-a06b737b5edf)
 </p>
 <br />
 
 <p align="center">
-Post Reply: (Cx means Customer) Cx states only 2 people in the accounting department are unable to open and use adobe reader. Cx testing restart, will call back after lunch.
+Note: Cx means Customer
+
+- **Post Reply:** Cx states only 2 people in the accounting department are unable to open and use adobe reader. Cx testing restart, will call back after lunch.
+- Then click "Post Reply".
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/4af13c3c-c525-4334-8fc8-1b3e129ea5b8)
+![image](https://github.com/user-attachments/assets/a40ca1e5-c1a1-4486-a1e3-a1d2b0eacbdd)
 
 </p>
 <br />
 
 <p align="center">
-Next Post Reply (Imagine a few hours passed and you were notified the following): Cx states that restart fixed issue, closing out ticket. Caution: If your company has internal notes, similar to osTicket, then avoid saying anything you don’t want the customer to see. Since you never know if they might see it. Make them as nice as possible. 
+Imagine a few hours passed and you were notified the following, then you create another Post Reply:
+
+- **Next Post Reply:** Cx states that restart fixed issue, closing out ticket.
+- Then click "Post Reply".
+- **Caution:** If your company has internal notes, similar to osTicket, then avoid saying anything you don’t want the customer to see. Since you never know if they might see it. Make them as nice as possible. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/5ddaaa2b-94ce-426c-8c05-b89bfcc66821)
-![image](https://github.com/user-attachments/assets/7e2cb5b7-6fea-4d84-8570-079233bd60fa)
+![image](https://github.com/user-attachments/assets/dee08844-ed77-4381-891f-9679e1fd17e9)
 
 </p>
 <br />
@@ -225,54 +257,81 @@ Next Post Reply (Imagine a few hours passed and you were notified the following)
 <p align="center">
 Resolve ticket.
 
+- **Status:** Resolved
+- Then click "Close".
+
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/4224cb3d-1e96-4475-89e4-db34dba73aab)
+![image](https://github.com/user-attachments/assets/90592c21-92db-45ef-be15-be1e0e046f78)
 
 </p>
 <br />
 
 <p align="center">
-As an end-user, create the following ticket. Issue Summary: CFO’s laptop will no longer turn on. Issue Description: Laptop won’t power on, despite pressing the power button.
+As an end-user, create the following ticket. 
+
+- **Email:** karen@lognpacific.com
+- **Full Name:** Karen
+- **Help Topic:** Report a Problem / Personal Computer Issues
+- **Issue Summary:** CFO’s laptop will no longer turn on.
+- **Issue Description:** Laptop won’t power on, despite pressing the power button.
+- Then click "Create Ticket. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/624fcf9d-681d-4384-81f4-315da65d7f9c)
+![image](https://github.com/user-attachments/assets/3d3906f1-4814-485d-aa27-02fb26d00545)
+![image](https://github.com/user-attachments/assets/d310efce-65be-4e66-b0d7-192746231b01)
 
 </p>
 <br />
 
 <p align="center">
-As a Help Desk Agent (john), observe the ticket’s properties. Priority -> emergency ; Department = Support ; SLA -> Sev-B ; Comment: May reclassify after getting more info. ; Assigned To -> To self (John) ; Note ; In real life, call the CFO, see in person, or contact karen. 
+As a Help Desk Agent (john), observe the ticket’s properties. 
+
+- **Username:** john
+- **Password:** Passsword1
+- **Priority:** Emergency
+- **Department:** Support
+- **SLA Plan:** Sev-B
+- **Comment (for SLA Plan):** May reclassify after getting more info.
+- **Assigned To:** To self (John)
+- Note: In real life, call the CFO, see in person, or contact Karen. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/f1f4849c-eb8e-4806-b5ac-9950c6b3cf39)
+![image](https://github.com/user-attachments/assets/52227052-96df-4244-b948-0b57aecf3209)
 
 </p>
 <br />
 
 <p align="center">
-Set Properties to the ticket to Sev-B (4 hours, 24/7) and Support. Work the ticket to completion as john. Post Reply: CFO’s laptop was not charging due to broken charger, brought new charger, now successfully charging. 
-
+Work the ticket to completion as john. 
+  
+- **Post Reply:** CFO’s laptop was not charging due to broken charger, brought new charger, now successfully charging. 
+- Then click Post Reply.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/005df50f-532d-40ca-bc81-c4f83bd1d8c5)
+![image](https://github.com/user-attachments/assets/ec343702-40f3-4810-b670-896e45a2625a)
 
 </p>
 <br />
 
 <p align="center">
-Close Ticket since it was solved. Comment: Charger was broken, because of this, the battery was dead and unable to turn on. ; Make sure, that all closed tickets are assigned to the right department, example like business critical outage should belong to sysadmins, meaning then john can’t see it. You could also give John limited access to.
+Resolve the ticket since it was solved. 
+
+- **Status:** Resolved
+- **Comment:** Charger was broken, because of this, the battery was dead and unable to turn on.
+
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/fdface83-162d-44cf-aaef-00d9fa25a67c)
+![image](https://github.com/user-attachments/assets/27df2415-923e-463f-ad27-34b0484da8f8)
+
 
 </p>
 <br />
