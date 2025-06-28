@@ -43,6 +43,11 @@ Login as:
 </p>
 <br />
 
+<h3 align="center">Example 1</h3>
+
+<h3 align="center">Intake</h3>
+
+
 <p align="center">
 Open this link, then click on "Open a New Ticket":
 
@@ -63,6 +68,9 @@ Open this link, then click on "Open a New Ticket":
 
 </p>
 <br />
+
+<h3 align="center">Assignment and Communication | Working the Issue | Resolution</h3>
+
 
 <p align="center">
 As a Help Desk Agent John:
@@ -173,6 +181,9 @@ Since the ticket is resolved, change the status of the ticket:
 </p>
 <br />
 
+<h3 align="center">Example 2</h3>
+
+
 <p align="center">
 As an end-user, create the following ticket. 
 
@@ -263,6 +274,9 @@ Resolve ticket.
 
 </p>
 <br />
+
+<h3 align="center">Example 3</h3>
+
 
 <p align="center">
 As an end-user, create the following ticket. 
