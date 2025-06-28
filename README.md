@@ -338,6 +338,5 @@ Resolve the ticket since it was solved.
 
 **Well done on completing the lab!**
 - Throughout this lab, we explored the full functionality of osTicket in managing the complete lifecycle of a help desk ticket. This hands-on experience has provided valuable insight into real-world ticketing workflows.
-
-Before you finish, don’t forget to **shut down your Azure virtual machine** to avoid any unnecessary charges. If you’ve completed all your work and no longer need the environment, you can safely delete the entire resource group to stop any ongoing storage costs.
+- Before you finish, don’t forget to **shut down your Azure virtual machine** to avoid any unnecessary charges. If you’ve completed all your work and no longer need the environment, you can safely delete the entire resource group to stop any ongoing storage costs.
 </p>
